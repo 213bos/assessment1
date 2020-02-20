@@ -55,7 +55,7 @@ header{
       border-collapse: separate;
   }
 
-  #mystuff:nth-child(even){
+  div:nth-child(even){
     border:1px solid black;
   }
 
